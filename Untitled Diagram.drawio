@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-20T06:09:53.335Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="dG6a7A4hN53UFjzHsH6X" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-20T09:20:31.380Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="4NAyptaa9ZReWf98pXxp" version="20.4.0" type="github">
   <diagram id="sr01JnekD_jXCpEyTvf6" name="Page-1">
     <mxGraphModel dx="1085" dy="568" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -17,18 +17,6 @@
           <mxGeometry x="300" y="110" width="160" height="130" as="geometry" />
         </mxCell>
         <mxCell id="XdsOHV8BTMzPMwmC4xkA-2" value="id&#xa;name    &#xa;description&#xa;createdAt&#xa;updatedAt" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="XdsOHV8BTMzPMwmC4xkA-1">
-          <mxGeometry y="30" width="160" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="XdsOHV8BTMzPMwmC4xkA-3" value="USD Rate" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="1">
-          <mxGeometry x="530" y="110" width="160" height="130" as="geometry" />
-        </mxCell>
-        <mxCell id="XdsOHV8BTMzPMwmC4xkA-4" value="id&#xa;rate&#xa;createdAt&#xa;updatedAt" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="XdsOHV8BTMzPMwmC4xkA-3">
-          <mxGeometry y="30" width="160" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="XdsOHV8BTMzPMwmC4xkA-5" value="Print Invoices" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="1">
-          <mxGeometry x="720" y="110" width="160" height="130" as="geometry" />
-        </mxCell>
-        <mxCell id="XdsOHV8BTMzPMwmC4xkA-6" value="id&#xa;shouldPrintInvoice&#xa;createdAt&#xa;updatedAt" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="XdsOHV8BTMzPMwmC4xkA-5">
           <mxGeometry y="30" width="160" height="100" as="geometry" />
         </mxCell>
         <mxCell id="XdsOHV8BTMzPMwmC4xkA-9" value="Order" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="1">
